@@ -1,5 +1,6 @@
 {
     "server": {
         "port": 3000
-    }
+    },
+	"database_uri": "localhost:8080"
 }
